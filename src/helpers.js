@@ -1,3 +1,5 @@
+// This piece of code is from the react.dev site
+
 export function calculateWinner(squares) {
     const lines = [
         [0, 1, 2],
