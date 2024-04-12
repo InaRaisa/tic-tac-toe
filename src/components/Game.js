@@ -1,3 +1,6 @@
+// Author: Ina Räisänen
+// Date: 13.04.2024
+// Following a tutorial by Thomas Weibenfalk
 import React, { useState } from "react";
 import { calculateWinner } from "../helpers";
 import Board from "./Board";
