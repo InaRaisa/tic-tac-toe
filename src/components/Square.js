@@ -1,3 +1,7 @@
+// Author: Ina Räisänen
+// Date: 13.04.2024
+// Following a tutorial by Thomas Weibenfalk
+
 import React from "react";
 
 const style = {
